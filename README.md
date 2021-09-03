@@ -10,7 +10,7 @@ Para desarrollar este proyecto se ha instalado
 Iremos dejando algunas configuraciones para la etapa de compilación, para que nos den errores, y conocer cómo podemos enfrentarlos.
 
 
-1. [Puesta en marcha del server de Django] (https://github.com/gianfranco-s/tutorial-django/blob/main/1.%20Puesta%20en%20marcha%20del%20server%20de%20Django.ipynb)  
+1. [Puesta en marcha del server de Django (40 min)](https://github.com/gianfranco-s/tutorial-django/blob/main/1.%20Puesta%20en%20marcha%20del%20server%20de%20Django.ipynb)  
   1.1 Iniciar un entorno virtual (`venv`)  
   1.2 Instalar Django  
   1.3 Crear el proyecto  

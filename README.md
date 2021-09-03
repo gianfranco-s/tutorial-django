@@ -11,11 +11,12 @@ Iremos dejando algunas configuraciones para la etapa de compilación, para que n
 
 
 1. Puesta en marcha del server de Django  
-  1.1 Instalar Django  
-  1.2 Crear el proyecto  
-  1.3 Configuración de **settings.py**  
-  1.4 Configurar la base de datos  
-  1.5 Iniciar el servidor  
+  1.1 Iniciar un entorno virtual (`venv`)  
+  1.2 Instalar Django  
+  1.3 Crear el proyecto  
+  1.4 Configuración de **settings.py**  
+  1.5 Configurar la base de datos  
+  1.6 Iniciar el servidor  
 
 2. Ahora sí, programemos el backend en Django  
   2.1  Flujo de información en Django  

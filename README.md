@@ -27,7 +27,7 @@ Iremos dejando algunas configuraciones para la etapa de compilación, para que n
   2.6  [Modelos en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#25-modelos-en-django)  
   2.7  [Base de datos en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#26-opcional-interacci%C3%B3n-con-la-base-de-datos)  
   2.8  [Django admin](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#27-django-admin)  
-  2.9  [Presentación de información de la app](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#28-presentaci%C3%B3n-de-lista-de-ejercicios)  
+  2.9  [Presentación de contenido](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#28-presentaci%C3%B3n-de-lista-de-ejercicios)  
   2.10 [Página de inicio](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#29-p%C3%A1gina-de-inicio)  
   2.11 [Creación de aplicación **accounts**](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#211-creaci%C3%B3n-de-aplicaci%C3%B3n-accounts)  
     2.11.1 [Asociación de Signup](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2111-asociaci%C3%B3n-de-signup-con-accounts)  

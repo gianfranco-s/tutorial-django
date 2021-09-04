@@ -18,9 +18,9 @@ Iremos dejando algunas configuraciones para la etapa de compilación, para que n
   1.5 Configurar la base de datos  
   1.6 Iniciar el servidor  
 
-2. Ahora sí, programemos el backend en Django  
-  2.1  Flujo de información en Django  
-  2.2  Creación de una vista (view)  
+2. [Ahora sí, programemos el backend en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2-ahora-s%C3%AD-programemos-el-backend-en-django)  
+  2.1  [Flujo de información en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#22-primera-vista)  
+  2.2  [Creación de una vista (view)](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#23-primera-vista-ahora-con-un-template)  
   2.3  View en base a una plantilla (template)  
   2.4  Un buen momento para subir el proyecto a un hosting SaaS  
   2.5  Creación de una segunda app  

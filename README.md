@@ -19,21 +19,21 @@ Iremos dejando algunas configuraciones para la etapa de compilación, para que n
   1.6 Iniciar el servidor  
 
 2. [Ahora sí, programemos el backend en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2-ahora-s%C3%AD-programemos-el-backend-en-django)  
-  2.1  [Flujo de información en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#22-primera-vista)  
-  2.2  [Creación de una vista (view)](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#23-primera-vista-ahora-con-un-template)  
-  2.3  View en base a una plantilla (template)  
-  2.4  Un buen momento para subir el proyecto a un hosting SaaS  
-  2.5  Creación de una segunda app  
-  2.6  Modelos en Django  
-  2.7  Base de datos en Django  
-  2.8  Django admin  
-  2.9  Presentación de información desde la base de datos  
-  2.10 Página de inicio  
-  2.11 Creación de aplicación **accounts**  
-    2.11.1 Asociación de Signup  
-    2.11.2 Crear formulario de Login  
-    2.11.3 Guardar cuentas de usuarios  
-    2.11.4 Configurar ingreso de usuarios  
+  2.1  [Flujo de información en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#21-flujo-de-informaci%C3%B3n-en-django)  
+  2.2  [Creación de una vista (view)](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#22-primera-vista)  
+  2.3  [View en base a una plantilla (template)](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#23-primera-vista-ahora-con-un-template)  
+  2.4  [Un buen momento para subir el proyecto a un hosting SaaS]()  
+  2.5  [Creación de una segunda app](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#24-creaci%C3%B3n-de-una-segunda-app)  
+  2.6  [Modelos en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#25-modelos-en-django)  
+  2.7  [Base de datos en Django](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#26-opcional-interacci%C3%B3n-con-la-base-de-datos)  
+  2.8  [Django admin](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#27-django-admin)  
+  2.9  [Presentación de información de la app](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#28-presentaci%C3%B3n-de-lista-de-ejercicios)  
+  2.10 [Página de inicio](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#29-p%C3%A1gina-de-inicio)  
+  2.11 [Creación de aplicación **accounts**](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#211-creaci%C3%B3n-de-aplicaci%C3%B3n-accounts)  
+    2.11.1 [Asociación de Signup](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2111-asociaci%C3%B3n-de-signup-con-accounts)  
+    2.11.2 [Crear formulario de Login](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2112-crear-el-formulario-de-ingreso)  
+    2.11.3 [Guardar cuentas de usuarios](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2113-guardar-y-validar-cuentas-de-usuario)  
+    2.11.4 [Configurar ingreso de usuarios](https://github.com/gianfranco-s/tutorial-django/blob/main/2.%20Ahora%20s%C3%AD,%20programemos%20el%20backend%20en%20Django.md#2114-ingreso-de-usuarios)  
 
 3. Vamos con el frontend!  
   3.1 Configuración de archivos estáticos  
